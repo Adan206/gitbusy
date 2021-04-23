@@ -1,1 +1,1 @@
-console.log('adding JS')
+console.log('adding JS to our project')
