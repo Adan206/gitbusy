@@ -27,6 +27,12 @@ h1 {
   justify-content: center;
 }
 
+.search {
+  width: 50%;
+  background-color: #ccc;
+  padding: 10px 2px;
+}
+
 .cookies {
   height: 34px;
 }
